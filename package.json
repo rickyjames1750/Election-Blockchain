@@ -1,5 +1,5 @@
 {
-  "name": "election",
+  "name": "pet-shop",
   "version": "1.0.0",
   "description": "",
   "main": "truffle.js",
@@ -13,7 +13,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.3.0",
-    "truffle": "5.0.0-beta.0"
+    "lite-server": "^2.3.0"
   }
 }
