@@ -5,6 +5,7 @@ Truffle framework is used for building the app.
 The Ganache port used is :7570.
 
 Video link of the project in action: coming soon 
+
 Steps to Run:
 
 npm install
